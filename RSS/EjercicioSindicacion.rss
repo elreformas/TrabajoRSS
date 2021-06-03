@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+    <title>Se encarece la luz</title>
+    <description>
+        mpuestos y pagos
+    </description>
+    <link>https://elreformas.github.io/RSS/EjercicioSindicacion.rss</link>
+    <item>
+        <title>Macarrones a las 4 AM </title>
+        <description>
+            Desde la subida al impuesto de la luz del pasado Lunes 1 de Junio,
+            la gente está haciendo los macarrones a las 4 de la madrugada y la lavadora
+            a las 5....
+        </description>
+        <link>https://www.idealista.com/news/finanzas/tecnologia/2016/10/07/743822-un-invento-para-ahorrar-en-la-factura-de-la-luz-sin-gastar-una-pasta-en-carisimas</link>
+    </item>
+    <item>
+        <title>Amiga date cuenta</title>
+        <description>
+            Vaya salseito rico que se viene con la Ariadna y el Dani santos. De loquisimos mi gente.
+        </description>
+        <link>https://www.elmundo.es/f5/mira/2021/06/03/60b8ba1521efa09f098b45a5.html</link>
+    </item>
+    <item>
+        <title>El balconing ataca de nuevo</title>
+        <description>
+            Los ingleses siguen sin aprender la leccion. Hoy una pareja de turistas...
+        </description>
+        <link>https://www.elmundo.es/baleares/2021/06/03/60b89888fc6c838e498b460f.html</link>
+    </item>
+</channel>
+</rss>
